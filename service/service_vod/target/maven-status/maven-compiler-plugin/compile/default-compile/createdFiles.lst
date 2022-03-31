@@ -1,0 +1,6 @@
+com\atguigu\aliyunvod\util\ConstantVodUtils.class
+com\atguigu\aliyunvod\controller\VodController.class
+com\atguigu\aliyunvod\service\impl\VodServiceImpl.class
+com\atguigu\aliyunvod\service\VodService.class
+com\atguigu\aliyunvod\util\AliyunVodSDKUtils.class
+com\atguigu\aliyunvod\VodApplication.class

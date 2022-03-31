@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6dffaa5-5024-43ac-a8df-3f1c15eba057" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="guli_parent" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Devsoft\MavenRepository" />
+        <option name="mavenHome" value="D:/Devsoft/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Devsoft\apache-maven-3.6.3\conf\setting_zxjy01.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="263nABeApwhArmAqZpudkYb1Sae" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/service_cms/src/test/java/eduservice" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\behind\guli_parent\service\service_cms\src\test\java\eduservice" />
+      <recent name="D:\workspace\behind\guli_parent\canal_clientedu\src\main\resources" />
+      <recent name="D:\workspace\behind\guli_parent\canal_clientedu\src\main\java\com\atguigu\canal" />
+      <recent name="D:\workspace\behind\guli_parent\service\service_vod\src\main\resources" />
+      <recent name="D:\workspace\behind\guli_parent\service\service_vod\src\main\java\com\atguigu\aliyunvod" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CmsApplication">
+    <configuration name="CodeGenerator.main1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eduservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eduservice" />
+      <option name="MAIN_CLASS_NAME" value="eduservice.CodeGenerator" />
+      <option name="METHOD_NAME" value="main1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api_gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="canal_clientedu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.canal.CanalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.educms.CmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_edu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.serviceedu.EduApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_msm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.msmservice.MsmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.orderservice.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.oss.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAclApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_acl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.aclservice.ServiceAclApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_statistics" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.staservice.StaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_ucenter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.educenter.UcenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_vod" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.aliyunvod.VodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CodeGenerator.main1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\makel\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6dffaa5-5024-43ac-a8df-3f1c15eba057" name="Default Changelist" comment="" />
+      <created>1646660991834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646660991834</updated>
+      <workItem from="1646660994384" duration="4130000" />
+      <workItem from="1646665190738" duration="1518000" />
+      <workItem from="1646721926839" duration="11895000" />
+      <workItem from="1646820518388" duration="6817000" />
+      <workItem from="1646983396780" duration="5804000" />
+      <workItem from="1647182047723" duration="2398000" />
+      <workItem from="1647338557589" duration="8705000" />
+      <workItem from="1647568319026" duration="959000" />
+      <workItem from="1647583338217" duration="1209000" />
+      <workItem from="1647667887748" duration="3229000" />
+      <workItem from="1648019883620" duration="1612000" />
+      <workItem from="1648178700920" duration="7678000" />
+      <workItem from="1648617241164" duration="1254000" />
+      <workItem from="1648694411649" duration="1627000" />
+      <workItem from="1648730604137" duration="263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="76" key="#Project_Structure" timestamp="1646664071739">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1646664071739" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1646723873074">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1646723873074" />
+    <state width="465" height="466" key="DebuggerActiveHint" timestamp="1647350765385">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="465" height="466" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1647350765385" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1646661246731">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1646661246731" />
+    <state width="1493" height="458" key="GridCell.Tab.0.bottom" timestamp="1648730743477">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="458" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1648730743477" />
+    <state width="1493" height="458" key="GridCell.Tab.0.center" timestamp="1648730743476">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="458" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1648730743476" />
+    <state width="1493" height="458" key="GridCell.Tab.0.left" timestamp="1648730743476">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="458" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1648730743476" />
+    <state width="1493" height="458" key="GridCell.Tab.0.right" timestamp="1648730743476">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="458" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1648730743476" />
+    <state width="1493" height="227" key="GridCell.Tab.1.bottom" timestamp="1648207796615">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1648207796615" />
+    <state width="1493" height="227" key="GridCell.Tab.1.center" timestamp="1648207796615">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1648207796615" />
+    <state width="1493" height="227" key="GridCell.Tab.1.left" timestamp="1648207796615">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1648207796615" />
+    <state width="1493" height="227" key="GridCell.Tab.1.right" timestamp="1648207796615">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1648207796615" />
+    <state width="1493" height="195" key="GridCell.Tab.2.bottom" timestamp="1647356090468">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1647356090468" />
+    <state width="1493" height="195" key="GridCell.Tab.2.center" timestamp="1647356090468">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1647356090468" />
+    <state width="1493" height="195" key="GridCell.Tab.2.left" timestamp="1647356090468">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1647356090467" />
+    <state width="1493" height="195" key="GridCell.Tab.2.right" timestamp="1647356090468">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1647356090468" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1646722192971">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1646722192971" />
+    <state x="320" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1647350621479">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="320" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1647350621479" />
+    <state x="178" y="112" key="new project wizard" timestamp="1646664735049">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="112" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1646664735049" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1647053874143">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1647053874143" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/service/impl/OssServiceImpl.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/CourseFrontController.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_cms/src/main/java/com/atguigu/educms/controller/BannerFrontController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
